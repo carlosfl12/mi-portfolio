@@ -10,8 +10,8 @@ export default function Home() {
     <div className="space-y-24">
       {/* Sección: Introducción */}
       <section id="sobremi" className="text-center space-y-4">
-        <h2 className="text-3xl font-bold">Carlos Fuentes Lorente</h2>
-        <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+        <h2 className="text-3xl font-bold text-white">Carlos Fuentes Lorente</h2>
+        <p className="text-lg text-white dark:text-gray-300 max-w-2xl mx-auto">
           Desarrollador con experiencia en la creación de videojuegos y aplicaciones web.
         </p>
         <DownloadCV/>
